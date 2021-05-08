@@ -6,6 +6,7 @@ import os
 import multiprocessing
 import time
 
+# For the first time running the code, uncoment the line below
 # ee.Authenticate()
 ee.Initialize()
 
