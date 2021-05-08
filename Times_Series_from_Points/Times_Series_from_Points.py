@@ -50,7 +50,7 @@ def pixels_values(imgcollection, geometries, band_name, id_name):
 
     return pixel_all_values
 
-
+# For the first time running the code, uncoment the line below
 # ee.Authenticate()
 ee.Initialize()
 
